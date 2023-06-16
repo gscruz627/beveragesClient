@@ -183,6 +183,7 @@ export default ({
 
 a {
   text-decoration: none;
+  color: #FFF;
 }
 
 a:visited {
